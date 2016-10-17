@@ -7,9 +7,9 @@ Submitted by: **Pham Duc Duy**
 Time spent: **30** minutes spent in total
 
 ## User Stories
-* [ ] User can **successfully create an interger array
-* [ ] User can **found min, max number
-* [ ] User can **reverse interger array.
+* [x] User can **successfully create an interger array
+* [x] User can **found min, max number
+* [x] User can **reverse interger array.
 
 ## Video Walkthrough 
 
